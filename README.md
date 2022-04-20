@@ -8,11 +8,11 @@ This project is backend of [Post-app](https://react-post-app.netlify.app/).
 
 # Route
 
-/api/user
+## /api/user
 
 Register or login with this route
 
-/api/post
+## /api/post
 
 Create, Read, Update, Delete with this route.
 
