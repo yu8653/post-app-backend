@@ -2,7 +2,7 @@
 
 This project was builded with node.js.
 
-Include passport.js, mongoose,and JWT.
+Include mongoose, MongoDB Atlas, passport.js,and JWT.
 
 This project is backend of [Post-app](https://react-post-app.netlify.app/).
 
